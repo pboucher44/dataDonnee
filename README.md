@@ -1,12 +1,12 @@
 # dataDonnee
 
 Groupe de:
-Pierre BOUCHER
-Aloïs HIAS
-Ylies AIT IHADDADENE
-Sacha DJURDJEVIC
-Fabien RENAUD
-Antoine DECLIDE
+- Pierre BOUCHER
+- Aloïs HIAS
+- Ylies AIT IHADDADENE
+- Sacha DJURDJEVIC
+- Fabien RENAUD
+- Antoine DECLIDE
 
 # Execution du code
 

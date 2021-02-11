@@ -11,3 +11,8 @@ Groupe de:
 # Execution du code
 
 Remplacer les chemins d'accès au fichier par le votre, nous avons utilisé google colab.
+
+
+# Resultats
+
+Pour afficher les résultats cliquez sur le fichier ipynb.
